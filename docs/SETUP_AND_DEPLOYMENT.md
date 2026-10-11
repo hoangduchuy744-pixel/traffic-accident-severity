@@ -3,7 +3,7 @@
 ## Local setup
 
 ```bash
-git clone https://github.com/nhamhhung/traffic-accident-severity.git
+git clone https://github.com/hoangduchuy744-pixel/traffic-accident-severity.git
 cd traffic-accident-severity
 python -m venv .venv
 source .venv/bin/activate

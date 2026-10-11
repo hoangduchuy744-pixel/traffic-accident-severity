@@ -10,12 +10,12 @@ This GitHub Pages site contains static documentation. The interactive Python app
 
 ## Use the project
 
-- [Source repository](https://github.com/nhamhhung/traffic-accident-severity)
+- [Source repository](https://github.com/hoangduchuy744-pixel/traffic-accident-severity)
 - [Interactive Streamlit app](https://traffic-accident-severity.streamlit.app)
-- [Clone, fork, and deployment guide](https://github.com/nhamhhung/traffic-accident-severity/blob/main/docs/SETUP_AND_DEPLOYMENT.md)
+- [Clone, fork, and deployment guide](https://github.com/hoangduchuy744-pixel/traffic-accident-severity/blob/main/docs/SETUP_AND_DEPLOYMENT.md)
 
 ## Reproduce it
 
 Clone the repository, create a Python 3.11 or 3.12 environment, install `requirements.txt` and `app/requirements.txt`, run `pytest tests/`, then run `python scripts/smoke_app.py`.
 
-Open Predict, Dataset Overview, Feature Engineering, and Model Insights; complete one severity prediction.
+Open Dự đoán, Dữ liệu nói gì?, Chuẩn bị dữ liệu and Mô hình giỏi đến đâu?; load a real accident and read its prediction and explanation.
