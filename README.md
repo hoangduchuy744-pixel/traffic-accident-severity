@@ -300,5 +300,5 @@ The Streamlit app starts immediately from a bundled 1,200-row stratified sample 
 
 - Repository: <https://github.com/hoangduchuy744-pixel/traffic-accident-severity>
 - Report: <https://hoangduchuy744-pixel.github.io/traffic-accident-severity/>
-- Streamlit: <https://traffic-accident-severity.streamlit.app>
+- Streamlit: <https://traffic-accident-severity-cvz7oug8kg8mbftwnn8e6r.streamlit.app/>
 - Fork setup: [docs/SETUP_AND_DEPLOYMENT.md](docs/SETUP_AND_DEPLOYMENT.md)
