@@ -1,7 +1,7 @@
 ---
 title: "Quản lý rủi ro tai nạn giao thông tại Việt Nam"
 subtitle: "Một bài trình bày giáo dục về dữ liệu, dự đoán và quyết định an toàn giao thông"
-author: "Your Name"
+author: "Hoàng Đức Huy"
 date: today
 lang: vi
 toc-title: "Mục lục"
